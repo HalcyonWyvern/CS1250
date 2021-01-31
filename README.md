@@ -1,2 +1,2 @@
 # CS1250
-UMSL's CS1250 with NAzire Koc.
+UMSL's CS1250 with Nazire Koc.
